@@ -18,5 +18,5 @@ Find my repository:
 
 ## Statistik progress saya
 
-[![Khoirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoirulfa&show_icons=true)](https://github.com/khoirulfa/github-readme-stats)
+[![Khoirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoirulfa&show_icons=true&include_all_commits=true)](https://github.com/khoirulfa/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoirulfa&layout=compact)](https://github.com/khoirulfa/github-readme-stats)
