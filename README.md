@@ -1,7 +1,9 @@
 ## _Hai, :wave: Everyone!_
 
 Aku adalah mahasiswa aktif jurusan Teknik Informatika di salah satu Politeknik di Jawa Timur, Indonesia.
+
 Sebelumnya saya adalah lulusan dari MA Islamiyah Senori Tuban di Jurusan IPA. Sembari bersekolah, saya juga menempuh pendidikan agama disalah satu Pondok Pesantren di Senori, Tuban selama kurang lebih 5 tahun.
+
 Karena saya masih minim pengetahuan di bidang IT, saya belajar melalui kursus online maupun dari media YouTube dan sekarang saya berfokus di PHP dan Javascript.
 
 [![Gmail Badge](https://img.shields.io/badge/-ahmusafir.khoirul@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ahmusafir.khoirul@gmail.com)](mailto:ahmusafir.khoirul@gmail.com)
