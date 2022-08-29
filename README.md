@@ -12,9 +12,9 @@ Ada yang bisa aku bantu? Hubungi ke:
 
 Find my repository:
 
-[![Github Badge](https://img.shields.io/badge/-khoirulfa-grey?style=flat&logo=github&logoColor=white&link=https://github.com/khoirulfa)](https://github.com/khoirulfa)
+[![Github Badge](https://img.shields.io/badge/-masmuss-grey?style=flat&logo=github&logoColor=white&link=https://github.com/masmuss)](https://github.com/masmuss)
 
-## Statistik progress saya
+## My Progress
 
-[![Khoirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoirulfa&show_icons=true&include_all_commits=true)](https://github.com/khoirulfa/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoirulfa&layout=compact)](https://github.com/khoirulfa/github-readme-stats)
+[![Khoirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=masmuss&show_icons=true&include_all_commits=true)](https://github.com/masmuss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masmuss&layout=compact)](https://github.com/masmuss/github-readme-stats)
