@@ -1,10 +1,10 @@
 ## _:wave: Hello, Everyone!_
 
-Namaku Khoirul. Sekarang aku adalah mahasiswa aktif jurusan Teknik Informatika di salah satu Politeknik di Jawa Timur, Indonesia.
+I am a full-stack developer and I am passionate about Web Design, API, and backend developer. I love collaborating and making connections.
 
-Karena saya masih minim pengetahuan di bidang IT, saya belajar melalui kursus online maupun dari media YouTube dan sekarang saya berfokus di PHP dan Javascript.
+My specialties include PHP, Laravel, JavaScript, Vue js, React JS, MySQL
 
-Ada yang bisa aku bantu? Hubungi ke:
+I am always open to chatting about my specialties and would love for you to connect with me on Instagram and Twitter or on my Telegram. Please feel free also to connect on:
 
 [![Gmail Badge](https://img.shields.io/badge/-ahmusafir.khoirul@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ahmusafir.khoirul@gmail.com)](mailto:ahmusafir.khoirul@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Ahmad_Musafir_Khoirul_Fattah-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-musafir-khoirul-fattah-26a53a207/)](https://www.linkedin.com/in/ahmad-musafir-khoirul-fattah-26a53a207/)
