@@ -6,13 +6,9 @@ My specialties include
 
 [![Specialties](https://skillicons.dev/icons?i=php,laravel,javascript,react,vue,mysql,tailwind)](https://skillicons.dev)
 
-Tools
+Additional and tools
 
-[![Tools](https://skillicons.dev/icons?i=vscode,vite,webpack,vercel,git,github)](https://skillicons.dev)
-
-Additional
-
-[![Additional](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+[![Additional](https://skillicons.dev/icons?i=bash,vscode,vite,webpack,vercel,git,github)](https://skillicons.dev)
 
 I am always open to chatting about my specialties and would love for you to connect with me on Instagram and Twitter or on my Telegram. Please feel free also to connect on:
 
