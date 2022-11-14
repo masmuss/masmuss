@@ -3,6 +3,7 @@
 I am a full-stack developer and I am passionate about Web Design, API, and backend developer. I love collaborating and making connections.
 
 My specialties include PHP, Laravel, JavaScript, Vue js, React JS, MySQL
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,javascript,react,vue)](https://skillicons.dev)
 
 I am always open to chatting about my specialties and would love for you to connect with me on Instagram and Twitter or on my Telegram. Please feel free also to connect on:
 
@@ -17,5 +18,4 @@ Find my repository:
 ## My Progress
 
 [![Khoirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=masmuss&show_icons=true&include_all_commits=true&theme=transparent)](https://github.com/masmuss/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masmuss)](https://github.com/masmuss/github-readme-stats)
-[![Khoirul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masmuss)](https://github.com/masmuss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masmuss&theme=transparent)](https://github.com/masmuss/github-readme-stats)
