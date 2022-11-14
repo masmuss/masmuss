@@ -1,10 +1,18 @@
-## _:wave: Hello, Everyone!_
+# _:wave: Hello, Everyone!_
 
 I am a full-stack developer and I am passionate about Web Design, API, and backend developer. I love collaborating and making connections.
 
 My specialties include
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,javascript,react,vue,mysql,tailwind)](https://skillicons.dev)
+
+Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,vite,webpack,vercel,git,github)](https://skillicons.dev)
+
+Additional
+
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 
 I am always open to chatting about my specialties and would love for you to connect with me on Instagram and Twitter or on my Telegram. Please feel free also to connect on:
 
@@ -18,5 +26,5 @@ Find my repository:
 
 ## My Progress
 
-[![Khoirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=masmuss&show_icons=true&include_all_commits=true&theme=transparent)](https://github.com/masmuss/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masmuss&theme=transparent)](https://github.com/masmuss/github-readme-stats)
+[![Khoirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=masmuss&show_icons=true&include_all_commits=true&theme=transparent&layout=compact)](https://github.com/masmuss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masmuss&theme=transparent&layout=compact)](https://github.com/masmuss/github-readme-stats)
