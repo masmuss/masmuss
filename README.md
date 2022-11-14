@@ -4,15 +4,15 @@ I am a full-stack developer and I am passionate about Web Design, API, and backe
 
 My specialties include
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,javascript,react,vue,mysql,tailwind)](https://skillicons.dev)
+[![Specialties](https://skillicons.dev/icons?i=php,laravel,javascript,react,vue,mysql,tailwind)](https://skillicons.dev)
 
 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vite,webpack,vercel,git,github)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,vite,webpack,vercel,git,github)](https://skillicons.dev)
 
 Additional
 
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+[![Additional](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 
 I am always open to chatting about my specialties and would love for you to connect with me on Instagram and Twitter or on my Telegram. Please feel free also to connect on:
 
