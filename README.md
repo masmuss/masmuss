@@ -9,7 +9,6 @@ My specialties include
 Tools
 
 [![Tools](https://skillicons.dev/icons?i=vscode,vite,webpack,vercel,git,github)](https://skillicons.dev)
-[![Tools](https://skillicons.dev/icons?i=vscode,vite,webpack,vercel,git,github)](https://skillicons.dev)
 
 Additional
 
