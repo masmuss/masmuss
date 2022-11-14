@@ -2,8 +2,9 @@
 
 I am a full-stack developer and I am passionate about Web Design, API, and backend developer. I love collaborating and making connections.
 
-My specialties include PHP, Laravel, JavaScript, Vue js, React JS, MySQL
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,javascript,react,vue)](https://skillicons.dev)
+My specialties include
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,javascript,react,vue,mysql,tailwind)](https://skillicons.dev)
 
 I am always open to chatting about my specialties and would love for you to connect with me on Instagram and Twitter or on my Telegram. Please feel free also to connect on:
 
