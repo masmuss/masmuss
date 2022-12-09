@@ -9,7 +9,7 @@ on:
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
-    runs-on: ubuntu 18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
@@ -20,4 +20,3 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           SHOW_TOTAL: true
-          REPOSITORY: masmuss/masmuss
