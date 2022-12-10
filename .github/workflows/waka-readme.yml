@@ -3,8 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
+    # Runs at 12am with local timezone
+    - cron: "0 0 * * 0"
 
 jobs:
   update-readme:
@@ -15,7 +15,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          BLOCKS: ->
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
