@@ -24,4 +24,17 @@ Find my repository:
 
 <!--START_SECTION:waka-->
 
+```text
+From: 08 December 2022 - To: 09 December 2022
+
+Total Time: 23 mins
+
+Bash             10 mins         >>>>>>>>>>>--------------   42.75 %
+PHP              5 mins          >>>>>>-------------------   24.19 %
+JavaScript       3 mins          >>>>---------------------   14.24 %
+Blade Template   3 mins          >>>----------------------   13.15 %
+Vue.js           1 min           >------------------------   05.51 %
+INI              0 secs          -------------------------   00.16 %
+```
+
 <!--END_SECTION:waka-->
