@@ -27,16 +27,16 @@ Find my repository:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 December 2022 - To: 09 December 2022
+From: 08 December 2022 - To: 10 December 2022
 
-Total Time: 23 mins
+Total Time: 2 hrs 21 mins
 
-Bash             10 mins         ██████████▓░░░░░░░░░░░░░░   42.75 %
-PHP              5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.19 %
-JavaScript       3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
-Blade Template   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
-Vue.js           1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+PHP              58 mins         ██████████▒░░░░░░░░░░░░░░   41.65 %
+Vue.js           54 mins         █████████▓░░░░░░░░░░░░░░░   38.69 %
+Bash             10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+JSON             8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+JavaScript       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Blade Template   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->
