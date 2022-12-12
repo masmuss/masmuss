@@ -25,18 +25,4 @@ Find my repository:
 # My stats
 
 <!--START_SECTION:waka-->
-
-```text
-From: 08 December 2022 - To: 10 December 2022
-
-Total Time: 2 hrs 21 mins
-
-PHP              58 mins         ██████████▒░░░░░░░░░░░░░░   41.65 %
-Vue.js           54 mins         █████████▓░░░░░░░░░░░░░░░   38.69 %
-Bash             10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-JSON             8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-JavaScript       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Blade Template   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-```
-
 <!--END_SECTION:waka-->
