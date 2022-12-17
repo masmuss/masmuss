@@ -25,5 +25,4 @@ Find my repository:
 ### :bar_chart: My coding stats breakdown
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
