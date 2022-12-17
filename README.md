@@ -25,4 +25,14 @@ Find my repository:
 ### :bar_chart: My coding stats breakdown
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript       3 hrs 35 mins   ████████████▓░░░░░░░░░░░░   50.59 %
+PHP              1 hr 18 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
+Vue.js           53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+YAML             39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+JSON             16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Markdown         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+```
+
 <!--END_SECTION:waka-->
