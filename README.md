@@ -27,16 +27,16 @@ Find my repository:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 December 2022 - To: 19 December 2022
+From: 08 December 2022 - To: 20 December 2022
 
-Total Time: 9 hrs 20 mins
+Total Time: 15 hrs 1 min
 
-JavaScript       4 hrs 54 mins   █████████████░░░░░░░░░░░░   52.63 %
-PHP              1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
-YAML             1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-Vue.js           54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-Markdown         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-JSON             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+JavaScript       7 hrs 52 mins   █████████████░░░░░░░░░░░░   52.43 %
+PHP              4 hrs 10 mins   ███████░░░░░░░░░░░░░░░░░░   27.74 %
+YAML             1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Vue.js           54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Markdown         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+JSON             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
