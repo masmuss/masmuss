@@ -27,16 +27,16 @@ Find my repository:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 December 2022 - To: 11 February 2023
+From: 08 December 2022 - To: 12 February 2023
 
-Total Time: 49 hrs 54 mins
+Total Time: 53 hrs 49 mins
 
-JavaScript         34 hrs 18 mins  █████████████████▒░░░░░░░   68.77 %
-PHP                5 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-TypeScript         3 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-JSON               2 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-YAML               1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Vue.js             57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+JavaScript         34 hrs 18 mins  ████████████████░░░░░░░░░   63.75 %
+TypeScript         6 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+PHP                5 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+JSON               2 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+reStructuredText   1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+YAML               1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
