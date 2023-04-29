@@ -29,13 +29,13 @@ Find my repository:
 ```text
 From: 08 December 2022 - To: 28 April 2023
 
-Total Time: 166 hrs 20 mins
+Total Time: 166 hrs 25 mins
 
-TypeScript         65 hrs 41 mins  ██████████░░░░░░░░░░░░░░░   39.49 %
-JavaScript         36 hrs 26 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
-Dart               23 hrs 19 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
-PHP                10 hrs 57 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-Markdown           7 hrs 28 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+TypeScript         65 hrs 41 mins  ██████████░░░░░░░░░░░░░░░   39.47 %
+JavaScript         36 hrs 31 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
+Dart               23 hrs 19 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+PHP                10 hrs 57 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Markdown           7 hrs 28 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 JSON               7 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
 ```
 
