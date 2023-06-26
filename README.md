@@ -27,15 +27,15 @@ Find my repository:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2022 - To: 24 June 2023
+From: 08 December 2022 - To: 25 June 2023
 
-Total Time: 236 hrs 14 mins
+Total Time: 239 hrs 15 mins
 
-TypeScript         112 hrs 1 min   ████████████░░░░░░░░░░░░░   47.42 %
-JavaScript         43 hrs 55 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
-Dart               24 hrs 51 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-PHP                19 hrs 24 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-Markdown           10 hrs 29 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+TypeScript         112 hrs 1 min   ███████████▓░░░░░░░░░░░░░   46.82 %
+JavaScript         45 hrs 58 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
+Dart               24 hrs 51 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+PHP                20 hrs 23 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+Markdown           10 hrs 29 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 ```
 
 <!--END_SECTION:waka-->
