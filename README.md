@@ -27,7 +27,7 @@ Find my repository:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2022 - To: 04 August 2023
+From: 08 December 2022 - To: 05 August 2023
 
 Total Time: 273 hrs 35 mins
 
